@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Saida de dados/Saida de dados.iml" filepath="$PROJECT_DIR$/Saida de dados/Saida de dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estudosJAVA.iml" filepath="$PROJECT_DIR$/estudosJAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Saida de dados/teste de variaveis/teste de variaveis.iml" filepath="$PROJECT_DIR$/Saida de dados/teste de variaveis/teste de variaveis.iml" />
+    </modules>
+  </component>
+</project>
