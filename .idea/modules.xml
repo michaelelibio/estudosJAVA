@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FuncoesMatematicas/FuncoesMatematicas.iml" filepath="$PROJECT_DIR$/FuncoesMatematicas/FuncoesMatematicas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Saida de dados/Saida de dados.iml" filepath="$PROJECT_DIR$/Saida de dados/Saida de dados.iml" />
       <module fileurl="file://$PROJECT_DIR$/estudosJAVA.iml" filepath="$PROJECT_DIR$/estudosJAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosDoModulo/exerciciosDoModulo.iml" filepath="$PROJECT_DIR$/exerciciosDoModulo/exerciciosDoModulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processamento de dados/processamento de dados.iml" filepath="$PROJECT_DIR$/processamento de dados/processamento de dados.iml" />
       <module fileurl="file://$PROJECT_DIR$/Saida de dados/teste de variaveis/teste de variaveis.iml" filepath="$PROJECT_DIR$/Saida de dados/teste de variaveis/teste de variaveis.iml" />
     </modules>
   </component>
