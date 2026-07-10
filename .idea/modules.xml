@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EstruturasControle/EstruturasControle.iml" filepath="$PROJECT_DIR$/EstruturasControle/EstruturasControle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentos/Fundamentos.iml" filepath="$PROJECT_DIR$/Fundamentos/Fundamentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+    </modules>
+  </component>
+</project>
